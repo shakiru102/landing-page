@@ -1,0 +1,16 @@
+#container {
+  height: 500px !important;
+}
+.headertext, .subheadertext {
+  text-align: center;
+}
+.headertext {
+  font-weight: 800;
+  font-size: xx-large;
+}
+.subheadertext {
+  width: 50%;
+  margin: 10px auto;
+  font-weight: 300;
+  color: rgb(218, 217, 217);
+}
